@@ -33,7 +33,7 @@
 ## 🧩 Problem Solving (Baekjoon)
 아직 풀이 수가 많지는 않지만, 꾸준히 기록 중입니다.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojun0)](https://solved.ac/hojun0)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojun0)](https://solved.ac/euqjung1)
 
 ## 📫 Contact
 - Email: 업데이트 예정
